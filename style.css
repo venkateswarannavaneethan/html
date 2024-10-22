@@ -1,0 +1,10 @@
+div{
+    display: flex;
+}
+
+.one{
+    background-color: aquamarine;
+}
+.two{
+    background-color: blueviolet;
+}

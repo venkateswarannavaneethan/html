@@ -1,0 +1,39 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	tab-size: 4;
+}
+
+.hljs {
+	background-color: transparent;
+	font-family: Consolas, 'Courier New', monospace;
+	font-size: 10pt;
+}
+
+.line-number,
+.line-text,
+h3 {
+	font-family: Consolas, 'Courier New', monospace;
+	font-size: 10pt;
+	hyphens: auto;
+	hyphenate-character: "↩";
+	line-height: 1.3em;
+}
+
+pre.plaintext {
+	font-family: Consolas, 'Courier New', monospace;
+	font-size: 10pt;
+	hyphens: auto;
+	line-height: 1.3em;
+	padding-bottom: 3px;
+	white-space: pre-wrap;
+}
+
+.code-box {
+  background-color: #f8f8f8;
+  border-radius: 0.5em;
+  border: thin solid silver;
+  white-space: pre-wrap;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9jc3Mvc2V0dGluZ3MuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztDQUVDLFNBQVM7Q0FDVCxVQUFVO0NBQ1Ysa0JBQWtCO0FBQ25COztBQUVBO0NBQ0MsNkJBQTZCO0NBQzdCLHdCQUF3QjtDQUN4QixvQkFBb0I7QUFDckI7O0FBRUE7OztDQUdDLHdCQUF3QjtDQUN4QixvQkFBb0I7Q0FDcEIsYUFBYTtDQUNiLHdCQUF3QjtDQUN4QiwyQkFBMkI7QUFDNUI7O0FBRUE7Q0FDQyx3QkFBd0I7Q0FDeEIsb0JBQW9CO0NBQ3BCLGFBQWE7Q0FDYiwyQkFBMkI7Q0FDM0IsbUJBQW1CO0NBQ25CLHFCQUFxQjtBQUN0Qjs7QUFFQTtFQUNFLHlCQUF5QjtFQUN6QixvQkFBb0I7RUFDcEIseUJBQXlCO0VBQ3pCLHFCQUFxQjtBQUN2QiIsInNvdXJjZVJvb3QiOiIifQ== */
